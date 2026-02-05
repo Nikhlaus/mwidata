@@ -1,0 +1,57 @@
+{
+  "/action_types/alchemy": {
+    "hrid": "/action_types/alchemy",
+    "name": "Alchemy",
+    "sortIndex": 9
+  },
+  "/action_types/brewing": {
+    "hrid": "/action_types/brewing",
+    "name": "Brewing",
+    "sortIndex": 8
+  },
+  "/action_types/cheesesmithing": {
+    "hrid": "/action_types/cheesesmithing",
+    "name": "Cheesesmithing",
+    "sortIndex": 4
+  },
+  "/action_types/combat": {
+    "hrid": "/action_types/combat",
+    "name": "Combat",
+    "sortIndex": 11
+  },
+  "/action_types/cooking": {
+    "hrid": "/action_types/cooking",
+    "name": "Cooking",
+    "sortIndex": 7
+  },
+  "/action_types/crafting": {
+    "hrid": "/action_types/crafting",
+    "name": "Crafting",
+    "sortIndex": 5
+  },
+  "/action_types/enhancing": {
+    "hrid": "/action_types/enhancing",
+    "name": "Enhancing",
+    "sortIndex": 10
+  },
+  "/action_types/foraging": {
+    "hrid": "/action_types/foraging",
+    "name": "Foraging",
+    "sortIndex": 2
+  },
+  "/action_types/milking": {
+    "hrid": "/action_types/milking",
+    "name": "Milking",
+    "sortIndex": 1
+  },
+  "/action_types/tailoring": {
+    "hrid": "/action_types/tailoring",
+    "name": "Tailoring",
+    "sortIndex": 6
+  },
+  "/action_types/woodcutting": {
+    "hrid": "/action_types/woodcutting",
+    "name": "Woodcutting",
+    "sortIndex": 3
+  }
+}
